@@ -2,3 +2,5 @@
 +%\VignetteEngine{knitr}
 +%\VignetteIndexEntry{ISMB Twitter Analysis}
 +-->
+#ok so this is the beginning. let's load the data into the analysis.
+knitr
