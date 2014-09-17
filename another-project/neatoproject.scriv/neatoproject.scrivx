@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2014-09-16 21:36:59 -0400">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2014-09-16 21:38:30 -0400">
     <Binder>
         <BinderItem ID="0" Type="DraftFolder" Created="2012-04-23 20:00:00 -0400" Modified="2012-04-23 20:00:00 -0400">
             <Title>Draft</Title>
@@ -46,6 +46,9 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs>7</SelectedSubdocumentIDs>
+                    </CorkboardAndOutliner>
                     <Children>
                         <BinderItem ID="7" Type="Text" Created="2014-09-16 21:35:57 -0400" Modified="2014-09-16 21:36:42 -0400">
                             <Title>#This is a tangent</Title>
