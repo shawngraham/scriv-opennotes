@@ -15,6 +15,8 @@ Base Header Level: 1
 
 5. I name it ‘readme.md’ and put it at the top level of the repo.
 
+6. It occurs to me that it would be useful to take the ‘files’ folder and batch convert all the file endings to .md for display on github.
+
 
 
 ——————————————————————
