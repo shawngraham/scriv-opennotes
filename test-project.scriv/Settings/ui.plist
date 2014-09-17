@@ -49,7 +49,7 @@
 	<false/>
 	<key>binderSelection</key>
 	<array>
-		<integer>13</integer>
+		<integer>3</integer>
 	</array>
 	<key>binderShowsLabelColorsAutosaveName</key>
 	<false/>
@@ -170,7 +170,7 @@
 	<integer>0</integer>
 	<key>mainDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>121</integer>
+		<integer>122</integer>
 	</array>
 	<key>mainDocumentEditor.corkboardVisible</key>
 	<false/>
@@ -4343,7 +4343,7 @@
 	<key>mainDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>7</integer>
+		<integer>15</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -4410,6 +4410,70 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>46</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>0</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>120</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>46</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>120</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>0</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>46</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>122</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.outlinerColumnsState</key>
@@ -4423,21 +4487,6 @@
 			<string>recommendedby</string>
 			<string>allKeywords</string>
 			<string>caloriesperserving</string>
-			<string>createdDate</string>
-			<string>modifiedDate</string>
-			<string>words</string>
-			<string>characters</string>
-			<string>includeInExport</string>
-			<string>pageBreakBefore</string>
-			<string>compileAsIs</string>
-			<string>targetCount</string>
-			<string>targetCountType</string>
-			<string>progress</string>
-			<string>totalWords</string>
-			<string>totalCharacters</string>
-			<string>publicationinfo</string>
-			<string>fatperserving</string>
-			<string>fiberperserving</string>
 			<string>totalTargetCount</string>
 			<string>totalProgress</string>
 		</array>
@@ -4447,50 +4496,20 @@
 			<real>160</real>
 			<key>caloriesperserving</key>
 			<real>75</real>
-			<key>characters</key>
-			<real>46</real>
-			<key>compileAsIs</key>
-			<real>110.841796875</real>
-			<key>createdDate</key>
-			<real>53</real>
-			<key>fatperserving</key>
-			<real>75</real>
-			<key>fiberperserving</key>
-			<real>75</real>
-			<key>includeInExport</key>
-			<real>20</real>
 			<key>label</key>
 			<real>104</real>
-			<key>modifiedDate</key>
-			<real>50</real>
-			<key>pageBreakBefore</key>
-			<real>66</real>
-			<key>progress</key>
-			<real>50.041019439697266</real>
-			<key>publicationinfo</key>
-			<real>75</real>
 			<key>recommendedby</key>
 			<real>115</real>
 			<key>source</key>
 			<real>116</real>
 			<key>status</key>
 			<real>88</real>
-			<key>targetCount</key>
-			<real>50</real>
-			<key>targetCountType</key>
-			<real>50</real>
 			<key>title</key>
 			<real>300</real>
-			<key>totalCharacters</key>
-			<real>96</real>
 			<key>totalProgress</key>
 			<real>64</real>
 			<key>totalTargetCount</key>
 			<real>64</real>
-			<key>totalWords</key>
-			<real>72</real>
-			<key>words</key>
-			<real>40</real>
 		</dict>
 	</dict>
 	<key>mainDocumentEditor.outlinerShowsTitlesOnly</key>
@@ -4532,7 +4551,7 @@
 	<key>mainDocumentEditor.scrollRect</key>
 	<string>{{0, 0}, {715, 551}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
-	<string>{31, 0}</string>
+	<string>{76, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -4547,7 +4566,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>7 413 1154 645 0 0 1920 1058 </string>
+	<string>458 266 1154 645 0 0 1920 1058 </string>
 	<key>metaDataModeAutosaveName</key>
 	<integer>0</integer>
 	<key>searchResultsTable</key>

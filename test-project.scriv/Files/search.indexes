@@ -103,6 +103,14 @@ With the exception of Compile, in most cases when exporting or syncing your docu
 
 The template’s default compile settings keep individual documents’ tabs and indents (to preserve ingredient lists) and include all meta-data, synopsis, and notes for Recipe documents while stripping comments and inline annotations for a cleaner appearance. As with everything, modify this to your needs.</Text>
         </Document>
+        <Document ID="122">
+            <Title>I like breakfast</Title>
+            <Synopsis>#I like breakfast. </Synopsis>
+            <Text>#Breakfast is good
++It feeds the brain
++It wakes me up
++It comes with coffee</Text>
+        </Document>
         <Document ID="119">
             <Title>Sample Recipe</Title>
             <Synopsis>A ridiculously boring recipe to saute some chicken.</Synopsis>
@@ -117,14 +125,16 @@ Serve chicken drizzled with sauce.</Text>
         </Document>
         <Document ID="120">
             <Title>Fake Sauce</Title>
-            <Synopsis>A made up recipe: no promises that this will work. Could be good, though.</Synopsis>
+            <Synopsis>#A made up recipe: no promises that this will work. Could be good, though.</Synopsis>
             <Text>Ingredients:
 3 Tbs. brandy
 ¼ C whipping cream
 1 Tbs. green pepper corns
 
 After cooking meat and removing from pan, remove pan from heat. Pour brandy into pan, light with match. Enjoy flames and deglaze pan. Stir in cream and pepper corns. I’m totally making this up, but it sounds good. It’s got brandy and whipping cream, for goodness’ sake. And fire. What could go wrong?
-Serve over meat.</Text>
+Serve over meat.
+
+#And eat like crazy man!</Text>
             <Comments>Carefully, so as not to burn yourself or set off the fire alarm.</Comments>
         </Document>
     </Documents>
