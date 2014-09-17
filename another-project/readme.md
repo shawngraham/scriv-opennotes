@@ -2,7 +2,8 @@ Title: neatoproject
 Author: Shawn Graham
 Base Header Level: 1
 
-#Actually, I’m doing it wrong.
+#Thoughts on using Scrivener + Github as an Open Notebook
+(See also https://github.com/carsomyr/scrivener_starter)
 
 1. Here’s the thought. I use scrivener for taking all of my notes, chronicling experiments, whatever. 
 
