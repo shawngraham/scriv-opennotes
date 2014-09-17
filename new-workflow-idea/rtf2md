@@ -1,0 +1,34 @@
+#!/bin/sh
+#
+# rtf2md
+# Converts an RTF file to a Markdown file
+
+
+SAVEIFS=$IFS
+IFS='
+'
+
+for f in "$@"
+do 
+	FILE="$f"
+	DIR=$(dirname $f)
+	FILENAME=$(basename $f)
+	BASENAME=${FILENAME%.*}
+	RTFNAME=$BASENAME.rtf
+	TEMPNAME=$BASENAME.tmp
+	#TEMPNAME2=$TEMPNAME'2'
+	OUTPUTNAME=$BASENAME.md
+	
+
+	textutil $DIR/$RTFNAME -format rtf -convert html -output $TEMPNAME
+	#sed 's! \*!\\\*!g' $TEMPNAME > $TEMPNAME2
+	#awk '{gsub(/\*/,"\\\*")}1' $TEMPNAME | awk '{gsub(/\\\\/,"\\")}1'  > $TEMPNAME2 
+	
+	#./escapemd $TEMPNAME
+
+	./html2text $TEMPNAME --escape-all > $DIR/$OUTPUTNAME
+
+	rm $TEMPNAME
+done
+
+IFS=$SAVEIFS
