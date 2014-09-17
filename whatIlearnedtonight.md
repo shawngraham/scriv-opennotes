@@ -9,5 +9,9 @@ http://rmflight.github.io/posts/2014/07/vignetteAnalysis.html\
 -create a vignette file
 -set the tools, project options etc
 
+need this too: http://cran.r-project.org/web/packages/roxygen2/vignettes/formatting.html
+and this: http://cran.r-project.org/web/packages/roxygen2/vignettes/rd.html
+
+
 -you can use the scrivener + github template for all the ancillary writing, put it in the same repo
 -use gitignore to sort out the cruf
