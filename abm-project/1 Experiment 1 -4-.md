@@ -1,22 +1,16 @@
-\#Experiment 1
+**Experiment 1**
 
-  
-
-\#\#Model Files
+**Model Files**
 
 \+ netlogo v5
 
 +  /Abm/smallmodels/small-model1/small-model1.nlogo
 
-  
-
-\#\#Outputs
+**Outputs**
 
 \+ /Abm/smallmodles/small-model1/Model\_runs1-100.csv
 
-  
-
-\#\#Testing
+**Testing**
 
 Here, a description of what I was trying to do in this experiment
 

@@ -1,26 +1,18 @@
-\#Project: ABM small & perfectly formed for Archaeology
+**Project: ABM small & perfectly formed for Archaeology**
 
+**Start Date: September 18 2014**
 
-
-\#\#Start Date: September 18 2014
-
-
-
-\#\#Milestones
+**Milestones**
 
 \+ SAA 2015 San Fran
 
-
-
-\#\#Outcomes
+**Outcomes**
 
 \+ Joint chapter with Tom?
 
 \+ Codebase
 
-
-
-\#\#Related things to sort out
+**Related things to sort out**
 
 \+ Repo
 
